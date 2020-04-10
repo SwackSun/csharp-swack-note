@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseLog4netDetail", "UseLog4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asmxTraceExtension", "asmxTraceExtension\asmxTraceExtension.csproj", "{5E239898-05DC-46CB-8B64-59D5154505A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asmxTraceExtensionLog4Net", "asmxTraceExtensionLog4Net\asmxTraceExtensionLog4Net.csproj", "{63805910-4952-4E64-AF0F-6D39F16EB089}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5E239898-05DC-46CB-8B64-59D5154505A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E239898-05DC-46CB-8B64-59D5154505A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E239898-05DC-46CB-8B64-59D5154505A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63805910-4952-4E64-AF0F-6D39F16EB089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63805910-4952-4E64-AF0F-6D39F16EB089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63805910-4952-4E64-AF0F-6D39F16EB089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63805910-4952-4E64-AF0F-6D39F16EB089}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
